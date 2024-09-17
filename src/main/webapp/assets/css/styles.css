@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.custom-text {
+    color: #EDF4F2 !important;
+}
+
+.custom-bg {
+    text-align: center;
+    background-color: #31473A !important;
+}
+
+.custom-wide-button {
+    width: 250px !important;
+    padding: 10px 20px !important;
+    font-size: 16px;
+    color: white;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; /
+    display: inline-block;
+    line-height: 1.5;
+    margin: auto;
+}
+
+.bienvenida-index{
+    margin-top: 12rem; /* Apply negative margins for horizontal centering */
+
+}
+
+.hr-short{
+    width: 35%;
+    border-top: 2px solid #EDF4F2;
+}
+
+form{
+    width: 80%;
+    margin: auto;
+}
+
+.custom-input {
+    width: 30% !important;
+}
+
